@@ -1,0 +1,28 @@
+^D:\KZYL\GITHUB\SEND_MESSAGE_TO_MAIL_USING_FLUTTER\SEND_MAIL_FLUTTER-MASTER\BUILD\WINDOWS\X64\CMAKEFILES\37D3EE94F0CD0A4D8DF63BE2B492902A\FLUTTER_WINDOWS.DLL.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -E env FLUTTER_ROOT=C:\src\flutter\flutter PROJECT_DIR=D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master FLUTTER_ROOT=C:\src\flutter\flutter FLUTTER_EPHEMERAL_DIR=D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master\windows\flutter\ephemeral PROJECT_DIR=D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master FLUTTER_TARGET=D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master\lib\main.dart DART_OBFUSCATION=false TRACK_WIDGET_CREATION=true TREE_SHAKE_ICONS=false PACKAGE_CONFIG=D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master\.dart_tool\package_config.json C:/src/flutter/flutter/packages/flutter_tools/bin/tool_backend.bat windows-x64 Debug
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\KZYL\GITHUB\SEND_MESSAGE_TO_MAIL_USING_FLUTTER\SEND_MAIL_FLUTTER-MASTER\BUILD\WINDOWS\X64\CMAKEFILES\40C3B7CA75626C14B16A556FA2D17C8A\FLUTTER_ASSEMBLE.RULE
+setlocal
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
+^D:\KZYL\GITHUB\SEND_MESSAGE_TO_MAIL_USING_FLUTTER\SEND_MAIL_FLUTTER-MASTER\WINDOWS\FLUTTER\CMAKELISTS.TXT
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/kzyl/github/Send_Message_To_Mail_Using_Flutter/send_mail_flutter-master/windows -BD:/kzyl/github/Send_Message_To_Mail_Using_Flutter/send_mail_flutter-master/build/windows/x64 --check-stamp-file D:/kzyl/github/Send_Message_To_Mail_Using_Flutter/send_mail_flutter-master/build/windows/x64/flutter/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

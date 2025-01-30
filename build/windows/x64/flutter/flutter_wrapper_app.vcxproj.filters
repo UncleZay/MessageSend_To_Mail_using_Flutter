@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master\windows\flutter\ephemeral\cpp_client_wrapper\core_implementations.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master\windows\flutter\ephemeral\cpp_client_wrapper\standard_codec.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master\windows\flutter\ephemeral\cpp_client_wrapper\flutter_engine.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master\windows\flutter\ephemeral\cpp_client_wrapper\flutter_view_controller.cc">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="D:\kzyl\github\Send_Message_To_Mail_Using_Flutter\send_mail_flutter-master\windows\flutter\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{E4884A4C-8D96-3F1D-8D8D-FE79BF6AC0D9}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{DBE73C7D-1294-3A2A-A1D7-2E4473DBA4D5}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

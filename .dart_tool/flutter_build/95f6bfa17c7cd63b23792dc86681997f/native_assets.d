@@ -1,0 +1,1 @@
+ D:\\kzyl\\github\\Send_Message_To_Mail_Using_Flutter\\send_mail_flutter-master\\.dart_tool\\flutter_build\\95f6bfa17c7cd63b23792dc86681997f\\native_assets.yaml: 

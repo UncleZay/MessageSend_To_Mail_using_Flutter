@@ -1,0 +1,10 @@
+^D:\KZYL\GITHUB\SEND_MESSAGE_TO_MAIL_USING_FLUTTER\SEND_MAIL_FLUTTER-MASTER\BUILD\WINDOWS\X64\CMAKEFILES\220C6F13D12EE2F6EA5A54495DB0D75A\GENERATE.STAMP.RULE
+setlocal
+"C:\Program Files\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SD:/kzyl/github/Send_Message_To_Mail_Using_Flutter/send_mail_flutter-master/windows -BD:/kzyl/github/Send_Message_To_Mail_Using_Flutter/send_mail_flutter-master/build/windows/x64 --check-stamp-list CMakeFiles/generate.stamp.list --vs-solution-file D:/kzyl/github/Send_Message_To_Mail_Using_Flutter/send_mail_flutter-master/build/windows/x64/send_mail_from_flutter.sln
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd
